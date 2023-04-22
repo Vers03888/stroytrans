@@ -488,7 +488,7 @@ li a.dropdown-item:hover {
 .container {
     width: 100%;
     display: flex;
-    padding: 0 20px;
+    padding: 15px 20px;
   }
   .slide {
     height: 600px;
@@ -853,9 +853,12 @@ li a.dropdown-item:hover {
     }
     .about_cards {
         display: block;
-       margin-top: 200px;
+       margin-top: 230px;
        padding-left: 22px;
        max-height: 450px;
+    }
+    .about_card_text {
+        padding-top: 30px;
     }
     .butn_2 {
         padding-top: 0px;
@@ -883,7 +886,7 @@ li a.dropdown-item:hover {
     }
     .services_cards {
         display: block; 
-        margin-top: 125px;
+        margin-top: 150px;
     }
     .services_list {
         margin-top: 10px;
