@@ -904,7 +904,7 @@ li a.dropdown-item:hover {
         line-height: 120%;
     }
     .about {
-        margin-top: 80px;
+        margin-top: 120px;
     }
     .about_title {
         font-style: normal;
@@ -912,7 +912,7 @@ li a.dropdown-item:hover {
         font-size: 24px;
         line-height: 120%;
         text-transform: uppercase;
-        padding-top: 40px;
+        padding-top: 20px;
         
     }
     .about_text {
