@@ -853,7 +853,7 @@ li a.dropdown-item:hover {
     }
     .about_cards {
         display: block;
-       margin-top: 230px;
+       margin-top: 240px;
        padding-left: 22px;
        max-height: 450px;
     }
@@ -881,12 +881,12 @@ li a.dropdown-item:hover {
         color: #2D7196;
     }
     .services_text {
-        padding-top: 10px;
+        padding-top: 40px;
         font-size: 16px;
     }
     .services_cards {
         display: block; 
-        margin-top: 150px;
+        margin-top: 160px;
     }
     .services_list {
         margin-top: 10px;
@@ -919,6 +919,7 @@ li a.dropdown-item:hover {
         font-weight: 400;
         font-size: 16px;
         line-height: 150%;
+        margin-bottom: 30px;
     }
     .card_title {
         font-weight: 600;
